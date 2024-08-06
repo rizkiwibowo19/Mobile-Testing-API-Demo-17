@@ -1,1 +1,1 @@
-# Mobile-Testing-API-Demo-17
+Here is an example of an automation testing project on the Android API Demos 17 application using Katalon Studio and Android Studio. This project includes two stages of testing: functional and regression testing. The testing scenarios encompass navigation testing, and checked and unchecked testing.

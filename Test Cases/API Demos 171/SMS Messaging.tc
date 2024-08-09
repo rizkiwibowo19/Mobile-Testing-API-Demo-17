@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMS Messaging</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>157a7926-1e35-4094-bf67-61d1849c0f6c</testCaseGuid>
+</TestCaseEntity>
